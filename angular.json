@@ -96,12 +96,13 @@
         "deploy": {
           "builder": "angular-cli-ghpages:deploy",
           "options": {
-            "baseHref": "/conversor-angular/"
+            "baseHref": "/angular-calc/"
+          }
         }
       }
     }
   },
   "cli": {
-    "analytics": false
+    "analytics": "false"
   }
 }
